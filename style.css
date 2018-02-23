@@ -41,7 +41,8 @@ p {
 aside {
     padding-bottom: 360px;
     overflow: hidden;
-    color: #ebebeb;
+    /*color: #ebebeb;*/
+    color: red;
 }
 
 footer {
